@@ -1,4 +1,4 @@
-const API_URL = "https://stellag2003.github.io/MiniProjeto---M2/";
+const API_URL = "https://miniprojeto-m2.onrender.com";
 
 // FUNÇÃO: LISTAR (GET) + MANIPULAÇÃO DO DOM
 async function listarTarefas() {
