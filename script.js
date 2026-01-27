@@ -1,4 +1,4 @@
-const API_URL = "http://192.168.0.188:3000/tarefas";
+const API_URL = "https://stellag2003.github.io/MiniProjeto---M2/";
 
 // FUNÇÃO: LISTAR (GET) + MANIPULAÇÃO DO DOM
 async function listarTarefas() {
