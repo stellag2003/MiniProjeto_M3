@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/tarefas";
+const API_URL = "https://miniprojeto-m2.onrender.com/tarefas";
 
 // Garante que o SweetAlert só seja chamado após o carregamento
 const alertar = (config) => {
