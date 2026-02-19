@@ -1,49 +1,49 @@
-🦸‍♂️ Hero Task Manager
-Gerenciador de missões Full Stack desenvolvido no programa Programadores do Amanhã. Uma To-Do List temática para organizar tarefas diárias com persistência de dados.
+## 🦸‍♂️ Hero Task Manager
+Gerenciador de missões Full Stack desenvolvido durante o programa Programadores do Amanhã. Uma aplicação temática para organizar tarefas diárias com persistência de dados.
 
-🔗 Acessar o Projeto (Deploy)
+🔗 Ver Demonstração Online
 
 🚀 O Projeto
-Aplicação CRUD completa que integra um front-end responsivo a um banco de dados SQL via ORM. O foco principal foi o domínio da Fetch API e a manipulação de dados entre cliente e servidor.
+O Hero Task Manager é uma To-Do List completa (CRUD) que integra um front-end responsivo a um back-end persistente. O foco principal foi o aprendizado de integração via Fetch API e manipulação de banco de dados SQL através de um ORM.
 
-🛠️ Tecnologias
-Front-end: HTML5, CSS3 (Mobile First) e JavaScript.
+🛠️ Stack Técnica
+Front-end: HTML5 Semântico, CSS3 (Flexbox/Mobile First) e JavaScript Vanilla.
 
-Back-end: Node.js e Express.
+Back-end: Node.js com Framework Express.
 
-Banco de Dados: SQLite + Sequelize (ORM).
+Banco de Dados: SQLite gerenciado pelo Sequelize (ORM).
 
-UX/UI: SweetAlert2 para alertas dinâmicos.
+Integrações: SweetAlert2 para notificações e Fetch API para consumo de dados.
 
-⚙️ Funcionalidades
-✅ CRUD: Criar, listar, editar e excluir missões.
+⚙️ Funcionalidades Principais
+Gestão de Tarefas: Criar, listar, editar e excluir missões em tempo real.
 
-🔄 Dynamic UI: Atualização da tela sem necessidade de reload.
+Persistência: Dados salvos no banco, garantindo que as tarefas não sumam ao fechar o navegador.
 
-💾 Persistência: Dados armazenados de forma segura no SQLite.
+Interface Dinâmica: Atualizações de UI sem necessidade de reload da página.
 
-🌐 Deploy: Backend hospedado no Render.
+Hospedagem: Backend no Render e Frontend no GitHub Pages.
 
-📦 Execução Local
-Para rodar o projeto na sua máquina, utilize os comandos abaixo no terminal:
+📦 Como rodar o projeto
+Siga os comandos abaixo no seu terminal para executar a aplicação localmente:
 
 Bash
-# 1. Clone o repositório
+# Clone o repositório
 git clone https://github.com/stellag2003/MiniProjeto_M3
 
-# 2. Entre na pasta
+# Entre na pasta do projeto
 cd MiniProjeto_M3
 
-# 3. Instale as dependências
+# Instale as dependências necessárias
 npm install
 
-# 4. Inicie o servidor (Modo dev)
+# Inicie o servidor em modo de desenvolvimento
 npm run dev
 🎯 Próximos Passos
-[ ] Implementar autenticação de usuários.
+[ ] Implementar sistema de Login e Autenticação.
 
-[ ] Adicionar filtros por categoria de missão.
+[ ] Adicionar filtros por categorias e status de conclusão.
 
-[ ] Criar "Níveis de Perigo" para as tarefas.
+[ ] Refinar o design da interface (Dark Mode).
 
 Autora: Stella Gonçalves 👩🏻‍💻
