@@ -1,13 +1,14 @@
 # 🦸‍♂️ Hero Task Manager
 Gerenciador de missões Full Stack desenvolvido durante o programa Programadores do Amanhã. Uma aplicação temática para organizar tarefas diárias com persistência de dados.
 
-🔗 Ver Demonstração Online
+🔗 Deploy:
+https://stellag2003.github.io/MiniProjeto_M3/
 
 # 🚀 O Projeto
 O Hero Task Manager é uma To-Do List completa (CRUD) que integra um front-end responsivo a um back-end persistente. O foco principal foi o aprendizado de integração via Fetch API e manipulação de banco de dados SQL através de um ORM.
 
 # 🛠️ Stack Técnica
-Front-end: HTML5 Semântico, CSS3 (Flexbox/Mobile First) e JavaScript Vanilla.
+-- Front-end: HTML5 Semântico, CSS3 (Flexbox/Mobile First) e JavaScript Vanilla.
 
 Back-end: Node.js com Framework Express.
 
