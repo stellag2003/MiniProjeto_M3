@@ -1,18 +1,20 @@
-🦸‍♂️ Hero Task Manager
+🦸‍♂️ HERO TASK MANAGER
 
-Sistema Full Stack de gerenciamento de tarefas desenvolvido no curso Programadores do Amanhã.
+🚀 SOBRE O PROJETO
+
+Sistema Full Stack de gerenciamento de tarefas desenvolvido no programa Programadores do Amanhã.
 
 Uma To-Do List com tema de Super-Herói — porque até os maiores heróis precisam organizar suas missões. ⚔️
 
-🚀 Demonstração
+🌍 DEMONSTRAÇÃO
 
 🔗 Deploy:
 https://stellag2003.github.io/MiniProjeto_M3/
 
 📂 Backend hospedado no Render
 
-🛠️ Tecnologias Utilizadas
-🔹 Backend
+🛠️ STACK UTILIZADA
+🔹 BACKEND
 
 Node.js
 
@@ -22,7 +24,7 @@ Sequelize
 
 SQLite
 
-🔹 Frontend
+🔹 FRONTEND
 
 HTML5 Semântico
 
@@ -34,7 +36,7 @@ Fetch API
 
 SweetAlert2
 
-⚙️ Funcionalidades
+⚙️ FUNCIONALIDADES
 
 ✅ Criar tarefas
 
@@ -44,13 +46,25 @@ SweetAlert2
 
 🗑️ Excluir tarefas
 
-🔄 Atualização dinâmica da lista (sem recarregamento de página)
+🔄 Atualização dinâmica (sem reload)
 
 🔔 Alertas interativos
 
-📦 Como rodar localmente
+📦 EXECUÇÃO LOCAL
 git clone https://github.com/stellag2003/MiniProjeto_M3
 npm install
 npm run dev
 
-👩🏻‍💻 Desenvolvido por Stella Gonçalves
+🎯 PRÓXIMOS PASSOS
+
+🔐 Implementar autenticação
+
+🗂️ Adicionar filtros
+
+🏷️ Criar categorias
+
+🎨 Evoluir design da interface
+
+👩🏻‍💻 AUTORA
+
+Stella Gonçalves
