@@ -1,11 +1,13 @@
-🦸‍♂️ Hero Task Manager – Full Stack To-Do List
+🦸‍♂️ Hero Task Manager
 
-Sistema Full Stack de gerenciamento de tarefas desenvolvido no programa Programadores do Amanhã.
-A proposta foi criar uma To-Do List com tema de Super-Herói — porque até os maiores heróis precisam organizar suas missões. ⚔️
+Sistema Full Stack de gerenciamento de tarefas desenvolvido no curso Programadores do Amanhã.
+
+Uma To-Do List com tema de Super-Herói — porque até os maiores heróis precisam organizar suas missões. ⚔️
 
 🚀 Demonstração
 
-🔗 Deploy: (https://stellag2003.github.io/MiniProjeto_M3/)
+🔗 Deploy:
+https://stellag2003.github.io/MiniProjeto_M3/
 
 📂 Backend hospedado no Render
 
@@ -32,16 +34,6 @@ Fetch API
 
 SweetAlert2
 
-📱 Responsividade
-
-O projeto foi desenvolvido com abordagem Mobile-First, garantindo adaptação fluida para:
-
-📱 Celulares
-
-💻 Tablets
-
-🖥️ Desktops
-
 ⚙️ Funcionalidades
 
 ✅ Criar tarefas
@@ -52,43 +44,13 @@ O projeto foi desenvolvido com abordagem Mobile-First, garantindo adaptação fl
 
 🗑️ Excluir tarefas
 
-🔄 Atualização dinâmica da lista (sem reload de página)
+🔄 Atualização dinâmica da lista (sem recarregamento de página)
 
-🔔 Alertas estilizados com SweetAlert2
+🔔 Alertas interativos
 
-🧠 Aprendizados
-
-Este projeto foi essencial para consolidar:
-
-Integração entre cliente e servidor
-
-Consumo de API
-
-Manipulação do DOM
-
-Estruturação de backend com ORM
-
-Deploy de aplicação Full Stack
-
-📦 Como rodar o projeto localmente
-1️⃣ Clonar o repositório
+📦 Como rodar localmente
 git clone https://github.com/stellag2003/MiniProjeto_M3
-
-2️⃣ Instalar dependências
 npm install
-
-3️⃣ Rodar o servidor
 npm run dev
 
-🎯 Próximos passos
-
-Implementar autenticação
-
-Adicionar filtros de tarefas
-
-Melhorar sistema de categorias
-
-Evoluir design da interface
-
-Desenvolvido por Stella Gonçalves 👩🏻‍💻
-Sempre evoluindo para a próxima missão 🚀
+👩🏻‍💻 Desenvolvido por Stella Gonçalves
