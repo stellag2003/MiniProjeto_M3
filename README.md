@@ -5,7 +5,7 @@ A proposta foi criar uma To-Do List com tema de Super-Herói — porque até os 
 
 🚀 Demonstração
 
-🔗 Deploy: [https:](https://stellag2003.github.io/MiniProjeto_M3/)
+🔗 Deploy: (https://stellag2003.github.io/MiniProjeto_M3/)
 
 📂 Backend hospedado no Render
 
@@ -72,7 +72,7 @@ Deploy de aplicação Full Stack
 
 📦 Como rodar o projeto localmente
 1️⃣ Clonar o repositório
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/stellag2003/MiniProjeto_M3
 
 2️⃣ Instalar dependências
 npm install
