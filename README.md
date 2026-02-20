@@ -1,68 +1,70 @@
-🦸‍♂️ Bem-vindo(a) ao Hero Task Manager! 🚀
-<div align="center"> <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="150"> </div>
+# 🦸‍♂️ Bem-vindo(a) ao Hero Task Manager! 🚀  
 
-Um gerenciador de missões Full Stack desenvolvido no programa Programadores do Amanhã, que permite organizar tarefas de forma dinâmica e persistente. 💥✨
+Um gerenciador de missões **Full Stack** desenvolvido no programa **Programadores do Amanhã**, permitindo organizar tarefas com persistência em banco de dados. 💥✨  
 
-🚀 Funcionalidades Principais
-1️⃣ Gestão Completa de Missões (CRUD)
+---
 
-Criar novas tarefas 📝
+## 🚀 Funcionalidades Principais  
 
-Editar missões existentes ✏️
+### 📝 Gestão Completa de Missões (CRUD)  
+- Criar tarefas  
+- Editar tarefas  
+- Excluir tarefas  
+- Listar missões cadastradas  
 
-Excluir tarefas ❌
+### 💾 Persistência de Dados  
+- As tarefas ficam salvas no banco  
+- Mesmo fechando o navegador, os dados permanecem  
 
-Listar todas as missões cadastradas 📋
+### ⚡ Interface Dinâmica  
+- Atualizações em tempo real  
+- Sem reload da página  
+- Comunicação com API via Fetch  
 
-2️⃣ Persistência de Dados 💾
+---
 
-As tarefas ficam salvas no banco de dados.
+## 📌 Como Usar  
 
-Mesmo fechando o navegador, as missões continuam registradas.
+1. Digite o nome da missão.  
+2. Clique em **Adicionar**.  
+3. Use **Editar** ou **Excluir** quando necessário.  
+4. As alterações aparecem automaticamente.  
 
-3️⃣ Interface Dinâmica ⚡
+---
 
-Atualizações em tempo real
+## 🛠️ Tecnologias Utilizadas  
 
-Sem necessidade de recarregar a página
+### 🔹 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-Comunicação com API via Fetch API
+### 🔹 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-📌 Como Usar
+### 🔹 Banco de Dados  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 
-Digite o nome da missão no campo disponível.
+---
 
-Clique em Adicionar para salvar a tarefa.
+## ⚙️ Como Rodar o Projeto  
 
-Utilize os botões de Editar ou Excluir quando necessário.
-
-As alterações são refletidas automaticamente na interface.
-
-🛠️ Tecnologias Utilizadas
-🔹 Frontend
-
-🔹 Backend
-
-🔹 Banco de Dados
-
-
-⚙️ Como Rodar o Projeto
+```bash
 git clone https://github.com/stellag2003/MiniProjeto_M3
 cd MiniProjeto_M3
 npm install
 npm run dev
+```
+## 🚧 Próximas Melhorias
 
-🚧 Próximas Melhorias
+- Login e Autenticação
+- Filtros por categoria
+- Dark Mode
 
-Implementar sistema de Login e Autenticação 🔐
+## 🔗 Acesso ao Projeto
 
-Adicionar filtros por categoria e status 📂
+👉 https://stellag2003.github.io/MiniProjeto_M3/
 
-Criar modo escuro (Dark Mode) 🌙
-
-🔗 Acesso ao Projeto
-
-👉 Clique aqui para acessar o Hero Task Manager:
-https://stellag2003.github.io/MiniProjeto_M3/
-
-🎥 Vídeo do Projeto
+# Desenvolvido por Stella Gonçalves 👩🏻‍💻
