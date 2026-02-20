@@ -1,86 +1,68 @@
-🦸‍♂️ Hero Task Manager
-🚀 Gerenciador de Missões Full Stack
+🦸‍♂️ Bem-vindo(a) ao Hero Task Manager! 🚀
+<div align="center"> <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="150"> </div>
 
-Aplicação desenvolvida durante o programa Programadores do Amanhã, com foco em integração entre front-end e back-end, consumo de API e persistência de dados.
+Um gerenciador de missões Full Stack desenvolvido no programa Programadores do Amanhã, que permite organizar tarefas de forma dinâmica e persistente. 💥✨
 
-🔗 Deploy:
-👉 https://stellag2003.github.io/MiniProjeto_M3/
+🚀 Funcionalidades Principais
+1️⃣ Gestão Completa de Missões (CRUD)
 
-✨ Sobre o Projeto
+Criar novas tarefas 📝
 
-O Hero Task Manager é uma aplicação completa de gerenciamento de tarefas (CRUD), onde o usuário pode criar, editar, listar e excluir missões em tempo real.
+Editar missões existentes ✏️
 
-O principal objetivo foi aplicar na prática:
+Excluir tarefas ❌
 
-Integração com API utilizando Fetch API
+Listar todas as missões cadastradas 📋
 
-Comunicação entre front-end e back-end
+2️⃣ Persistência de Dados 💾
 
-Manipulação de banco de dados SQL via ORM
+As tarefas ficam salvas no banco de dados.
 
-Atualização dinâmica da interface sem reload
+Mesmo fechando o navegador, as missões continuam registradas.
 
-🛠️ Stack Tecnológica
-🎨 Front-end
+3️⃣ Interface Dinâmica ⚡
 
-HTML5 Semântico
+Atualizações em tempo real
 
-CSS3 (Flexbox & Mobile First)
+Sem necessidade de recarregar a página
 
-JavaScript Vanilla
+Comunicação com API via Fetch API
 
-⚙️ Back-end
+📌 Como Usar
 
-Node.js
+Digite o nome da missão no campo disponível.
 
-Express
+Clique em Adicionar para salvar a tarefa.
 
-🗄️ Banco de Dados
+Utilize os botões de Editar ou Excluir quando necessário.
 
-SQLite
+As alterações são refletidas automaticamente na interface.
 
-Sequelize (ORM)
+🛠️ Tecnologias Utilizadas
+🔹 Frontend
 
-🔗 Integrações
+🔹 Backend
 
-SweetAlert2 (Notificações personalizadas)
+🔹 Banco de Dados
 
-Fetch API (Consumo de API REST)
 
-⚙️ Funcionalidades
-
-✅ Criar novas missões
-✅ Editar tarefas existentes
-✅ Excluir tarefas
-✅ Persistência no banco de dados
-✅ Atualização dinâmica da interface
-✅ Backend hospedado no Render
-✅ Frontend hospedado no GitHub Pages
-
-📦 Como Executar o Projeto
-# Clone o repositório
+⚙️ Como Rodar o Projeto
 git clone https://github.com/stellag2003/MiniProjeto_M3
-
-# Entre na pasta
 cd MiniProjeto_M3
-
-# Instale as dependências
 npm install
-
-# Execute o servidor
 npm run dev
 
-🎯 Próximas Implementações
+🚧 Próximas Melhorias
 
- Sistema de Login e Autenticação
+Implementar sistema de Login e Autenticação 🔐
 
- Filtros por categoria e status
+Adicionar filtros por categoria e status 📂
 
- Implementação de Dark Mode
+Criar modo escuro (Dark Mode) 🌙
 
- Deploy com domínio personalizado
+🔗 Acesso ao Projeto
 
-👩🏻‍💻 Autora
+👉 Clique aqui para acessar o Hero Task Manager:
+https://stellag2003.github.io/MiniProjeto_M3/
 
-Stella Gonçalves
-Desenvolvedora Full Stack em formação 🚀
+🎥 Vídeo do Projeto
