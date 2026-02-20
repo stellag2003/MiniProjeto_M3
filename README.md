@@ -1,61 +1,86 @@
 🦸‍♂️ Hero Task Manager
+🚀 Gerenciador de Missões Full Stack
 
-Gerenciador de missões Full Stack desenvolvido durante o programa Programadores do Amanhã. Uma aplicação temática para organizar tarefas diárias com persistência de dados.
+Aplicação desenvolvida durante o programa Programadores do Amanhã, com foco em integração entre front-end e back-end, consumo de API e persistência de dados.
 
 🔗 Deploy:
-https://stellag2003.github.io/MiniProjeto_M3/
+👉 https://stellag2003.github.io/MiniProjeto_M3/
 
-🚀 O Projeto
+✨ Sobre o Projeto
 
-O Hero Task Manager é uma To-Do List completa (CRUD) que integra um front-end responsivo a um back-end persistente. O foco principal foi o aprendizado de integração via Fetch API e manipulação de banco de dados SQL através de um ORM.
+O Hero Task Manager é uma aplicação completa de gerenciamento de tarefas (CRUD), onde o usuário pode criar, editar, listar e excluir missões em tempo real.
 
-🛠️ Stack Técnica
+O principal objetivo foi aplicar na prática:
 
-Front-end: HTML5 Semântico, CSS3 (Flexbox/Mobile First) e JavaScript Vanilla.
+Integração com API utilizando Fetch API
 
-Back-end: Node.js com Framework Express.
+Comunicação entre front-end e back-end
 
-Banco de Dados: SQLite gerenciado pelo Sequelize (ORM).
+Manipulação de banco de dados SQL via ORM
 
-Integrações: SweetAlert2 para notificações e Fetch API para consumo de dados.
+Atualização dinâmica da interface sem reload
 
-⚙️ Funcionalidades Principais
+🛠️ Stack Tecnológica
+🎨 Front-end
 
-Gestão de Tarefas: Criar, listar, editar e excluir missões em tempo real.
+HTML5 Semântico
 
-Persistência: Dados salvos no banco, garantindo que as tarefas não sumam ao fechar o navegador.
+CSS3 (Flexbox & Mobile First)
 
-Interface Dinâmica: Atualizações de UI sem necessidade de reload da página.
+JavaScript Vanilla
 
-Hospedagem: Backend no Render e Frontend no GitHub Pages.
+⚙️ Back-end
 
-📦 Como rodar o projeto
+Node.js
 
-Siga os comandos abaixo no seu terminal para executar a aplicação localmente:
+Express
 
-Bash
+🗄️ Banco de Dados
 
-Clone o repositório
+SQLite
 
+Sequelize (ORM)
+
+🔗 Integrações
+
+SweetAlert2 (Notificações personalizadas)
+
+Fetch API (Consumo de API REST)
+
+⚙️ Funcionalidades
+
+✅ Criar novas missões
+✅ Editar tarefas existentes
+✅ Excluir tarefas
+✅ Persistência no banco de dados
+✅ Atualização dinâmica da interface
+✅ Backend hospedado no Render
+✅ Frontend hospedado no GitHub Pages
+
+📦 Como Executar o Projeto
+# Clone o repositório
 git clone https://github.com/stellag2003/MiniProjeto_M3
 
-Entre na pasta do projeto
-
+# Entre na pasta
 cd MiniProjeto_M3
 
-Instale as dependências necessárias
-
+# Instale as dependências
 npm install
 
-Inicie o servidor em modo de desenvolvimento
-
+# Execute o servidor
 npm run dev
 
-🎯 Próximos Passos
-[ ] Implementar sistema de Login e Autenticação.
+🎯 Próximas Implementações
 
-[ ] Adicionar filtros por categorias e status de conclusão.
+ Sistema de Login e Autenticação
 
-[ ] Refinar o design da interface (Dark Mode).
+ Filtros por categoria e status
 
-Autora: Stella Gonçalves 👩🏻‍💻
+ Implementação de Dark Mode
+
+ Deploy com domínio personalizado
+
+👩🏻‍💻 Autora
+
+Stella Gonçalves
+Desenvolvedora Full Stack em formação 🚀
