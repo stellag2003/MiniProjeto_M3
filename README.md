@@ -12,9 +12,10 @@ Um gerenciador de missões **Full Stack** desenvolvido no programa **Programador
 - Excluir tarefas  
 - Listar missões cadastradas  
 
-### 💾 Persistência de Dados  
-- As tarefas ficam salvas no banco  
-- Mesmo fechando o navegador, os dados permanecem  
+### 🔗 Integração com API  
+- Comunicação entre Front-end e Back-end via **Fetch API**  
+- Consumo de rotas REST (GET, POST, PUT, DELETE)  
+- Atualização dinâmica dos dados sem recarregar a página  
 
 ### ⚡ Interface Dinâmica  
 - Atualizações em tempo real  
