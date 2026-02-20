@@ -67,4 +67,4 @@ npm run dev
 
 👉 https://stellag2003.github.io/MiniProjeto_M3/
 
-# Desenvolvido por Stella Gonçalves 👩🏻‍💻
+ Desenvolvido por Stella Gonçalves 👩🏻‍💻
