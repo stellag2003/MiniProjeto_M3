@@ -1,4 +1,4 @@
-# 🦸‍♂️ Bem-vindo(a) ao Hero Task Manager! 🚀  
+# 🦸‍♂️ Bem-vindo(a) ao QG de Heroís TaskMaster! 🚀  
 
 Um gerenciador de missões **Full Stack** desenvolvido no programa **Programadores do Amanhã**, permitindo organizar tarefas com persistência em banco de dados. 💥✨  
 
